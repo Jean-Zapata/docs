@@ -10,8 +10,7 @@
           },
           {
             "path": "docs/mozo",
-            "type": "collection",
-            "title": "Mozo"
+            "type": "collection"
           },
           {
             "path": "docs/mozo/mozo.md",
