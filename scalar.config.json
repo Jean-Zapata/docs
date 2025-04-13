@@ -2,7 +2,7 @@
     "subdomain": "entertaining-fish-wvgxm",
     "guides": [
       {
-        "name": "My awesome documentation",
+        "name": "manual",
         "sidebar": [
           {
             "path": "docs/introduction.md",
