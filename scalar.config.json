@@ -1,33 +1,26 @@
 {
-    "subdomain": "demozr",
-    "guides": [
-      {
-        "name": "manual",
-        "sidebar": [
-          {
-            "path": "docs/introduction.md",
-            "type": "page"
-          },
-          {
-            "path": "docs/Mozo/Mozo.md",
-            "type": "page"  
-          },
-          {
-            "path": "docs/Mozo/Mesas.md",
-            "type": "page"  
-          },
-          {
-            "path": "docs/Mozo/Pos.md",
-            "type": "page"  
-          }
-        ]
-      }
-    ],
-    "references": [
-      {
-        "name": "style",
-        "path": "src/static/custum.css",
-        "type": "stylesheet"
-      }
-    ]
-  }
+  "subdomain": "demozr",
+  "guides": [
+    {
+      "name": "manual",
+      "sidebar": [
+        {
+          "path": "docs/introduction.md",
+          "type": "page"
+        },
+        {
+          "path": "docs/Mozo/Mozo.md",
+          "type": "page"
+        },
+        {
+          "path": "docs/Mozo/Mesas.md",
+          "type": "page"
+        },
+        {
+          "path": "docs/Mozo/Pos.md",
+          "type": "page"
+        }
+      ]
+    }
+  ]
+}

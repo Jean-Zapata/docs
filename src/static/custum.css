@@ -1,19 +1,45 @@
-
-.header-item-link {
+/* Oculta el header/tab superior */
+.header {
+    display: none !important;
+  }
+  
+  /* Puedes personalizar el sidebar también si quieres */
+  .sidebar {
+    background-color: #1a1a1a;
+    color: #fff;
+  }
+  
+  /* Enlaces del sidebar */
+  .sidebar a {
+    color: #aaa;
+  }
+  
+  .sidebar a:hover {
+    color: #fff;
+  }
+  
+  /* Títulos principales */
+  h1 {
+    color: #ffffff;
+  }
+  
+  /* Tu header-item-style si quieres aplicarlo en algún lado */
+  .header-item-link {
     text-decoration: none;
     color: #333;
     padding: 10px 15px;
     display: inline-block;
     transition: all 0.3s ease;
-}
-
-.header-item-active {
+  }
+  
+  .header-item-active {
     color: #007bff;
     border-bottom: 2px solid #007bff;
     font-weight: bold;
-}
-
-.header-item-link:hover {
+  }
+  
+  .header-item-link:hover {
     color: #0056b3;
     background-color: #f8f9fa;
-}
+  }
+  
