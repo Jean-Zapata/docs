@@ -13,11 +13,11 @@
             "type": "page"  
           },
           {
-            "path": "docs/mozo/mesas.md",
+            "path": "docs/Mozo/Mesas.md",
             "type": "page"  
           },
           {
-            "path": "docs/mozo/pos.md",
+            "path": "docs/Mozo/Pos.md",
             "type": "page"  
           }
         ]
