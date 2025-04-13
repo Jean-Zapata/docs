@@ -23,5 +23,11 @@
         ]
       }
     ],
-    "references": []
+    "references": [
+      {
+        "name": "style",
+        "path": "src/static/custum.css",
+        "type": "stylesheet"
+      }
+    ]
   }
