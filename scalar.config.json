@@ -9,10 +9,6 @@
             "type": "page"
           },
           {
-            "path": "docs/mozo",
-            "type": "collection"
-          },
-          {
             "path": "docs/mozo/mozo.md",
             "type": "page"  
           },
